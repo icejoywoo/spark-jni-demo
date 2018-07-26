@@ -1,6 +1,7 @@
 # Spark jni demo
 
-文章示例：http://icejoywoo.github.io/2018/07/25/spark-jni.html
+文章：http://icejoywoo.github.io/2018/07/25/spark-jni.html
+使用的 base64 库：https://github.com/tkislan/base64
 
 ## 编译方法
 
